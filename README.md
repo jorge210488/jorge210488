@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jorgemartinez.jam@gmail.com**
 
-- Website: 🌐 **[https://jorgem-portfolio.vercel.app/](https://jorgem-portfolio.vercel.app/)**
+- 🌐 Website: **[https://jorgem-portfolio.vercel.app/](https://jorgem-portfolio.vercel.app/)**
 
 
 <h3 align="left">Connect with me:</h3>
