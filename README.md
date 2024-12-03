@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jorge Martínez</h1>
 <h3 align="center">Full Stack Developer | Crafting Efficient & User-Centered Applications</h3>
 
-- 🔭 I’m currently working on **Personal Portafolio**
+- 🔭 I’m currently working on **Blog**
 
 - 🌱 I’m currently learning **Phyton**
 
-- 💞️ I’m looking to collaborate on **Phyton, typescrip, javascript, IoT, react**
+- 💞️ I’m looking to collaborate on **Phyton, typescript, javascript, IoT, react**
 
 - 💬 Ask me about **Javascript, typescript, node.js, html, css, nestjs, express, react, next.js, bootstrap, scss, prisma, IA, TypeORM**
 
