@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Blog**
 
-- 🌱 I’m currently learning **Phyton**
+- 🌱 I’m currently learning **Python**
 
-- 💞️ I’m looking to collaborate on **Phyton, typescript, javascript, IoT, react**
+- 💞️ I’m looking to collaborate on **Python, typescript, javascript, IoT, react**
 
 - 💬 Ask me about **Javascript, typescript, node.js, html, css, nestjs, express, react, next.js, tailwind, bootstrap, scss, prisma, IA, TypeORM**
 
