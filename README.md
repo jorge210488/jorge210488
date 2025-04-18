@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jorge Martínez</h1>
-<h3 align="center">Full Stack Developer | Crafting Efficient & User-Centered Applications</h3>
+<h3 align="center">Full Stack Developer | AI Engineer | Crafting Efficient & User-Centered Applications</h3>
 
-- 🔭 I’m currently working on **Blog**
+- 🔭 I’m currently working on **AI Agents**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Solidity**
 
 - 💞️ I’m looking to collaborate on **Python, typescript, javascript, IoT, react**
 
