@@ -7,7 +7,7 @@
 
 - 💞️ I’m looking to collaborate on **Python, typescript, javascript, IoT, react**
 
-- 💬 Ask me about **Javascript, typescript, node.js, html, css, nestjs, express, react, next.js, tailwind, bootstrap, scss, prisma, IA, TypeORM**
+- 💬 Ask me about **Javascript, Python, typescript, node.js, HTML, CSS, nestjs, express, react, next.js, tailwind, bootstrap, scss, prisma, AI, LLMs, TypeORM**
 
 - 📫 How to reach me **jorgemartinez.jam@gmail.com**
 
