@@ -20,6 +20,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/jorgemartinezgarcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorgemartinezgarcia" height="30" width="40" /></a>
 <a href="https://x.com/jorgemartinezga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jorgemartinezga" height="30" width="40" /></a>
+<a href="https://wa.me/5491172363748?text=Hi%20How%20are%20you%20?" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="30" width="40"/></a>
+<a href="https://discord.gg/U8cTXEKPHN" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg" alt="Discord" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
