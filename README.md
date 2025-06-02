@@ -12,6 +12,8 @@
 - 📫 How to reach me **jorgemartinez.jam@gmail.com**
 
 - 🌐 Website: **[https://jorgem-portfolio.vercel.app/](https://jorgem-portfolio.vercel.app/)**
+  
+- 📰 Blog: **[https://d1zdy7m13ps0e9.cloudfront.net/](https://d1zdy7m13ps0e9.cloudfront.net/)**
 
 
 <h3 align="left">Connect with me:</h3>
