@@ -13,7 +13,7 @@
 
 - 🌐 Website: **[https://jorgemartinezjam.dev/](https://jorgemartinezjam.dev/)**
   
-- 📰 Blog: **[https://d1zdy7m13ps0e9.cloudfront.net/](https://d1zdy7m13ps0e9.cloudfront.net/)**
+- 📰 Blog: **[https://blog.jorgemartinezjam.dev/](https://blog.jorgemartinezjam.dev/)**
 
 
 <h3 align="left">Connect with me:</h3>
